@@ -159,7 +159,7 @@ JSON
 
 ### http://localhost:8081/rest/films
 
-![image](https://github.com/vellarLa/ESA_LAB_3/assets/83453185/00eda9fa-0029-411e-b756-f70361fb9cf2)
+![image](https://github.com/vellarLa/ESA_LAB_3/assets/83453185/f608b1eb-e262-490e-824e-f33d7bedbdb8)
 
 XML
 ```bash
