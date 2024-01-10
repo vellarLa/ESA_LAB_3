@@ -334,3 +334,38 @@ JSON
 ## Tickets
 ![image](https://github.com/vellarLa/ESA_LAB_3/assets/83453185/5d5b750f-0262-4d0c-8c07-55c16f4e3297)
 ![image](https://github.com/vellarLa/ESA_LAB_3/assets/83453185/c7b20154-0405-4999-baf5-7d08735057ab)
+
+### POST
+![image](https://github.com/vellarLa/ESA_LAB_3/assets/83453185/e3344a03-1f93-42f0-9945-122788794172)
+
+До
+
+![image](https://github.com/vellarLa/ESA_LAB_3/assets/83453185/445adbff-f528-4729-844c-af597b95dd74)
+
+После
+
+![image](https://github.com/vellarLa/ESA_LAB_3/assets/83453185/e99b7693-9c2b-4cc4-af15-822170ad8d39)
+
+### DELETE
+![image](https://github.com/vellarLa/ESA_LAB_3/assets/83453185/08d31743-3c98-46ed-bf67-916ebc21f065)
+
+
+До
+
+![image](https://github.com/vellarLa/ESA_LAB_3/assets/83453185/c7661121-1d10-42cd-bceb-9f02bfc79d27)
+
+После
+
+![image](https://github.com/vellarLa/ESA_LAB_3/assets/83453185/dfbb7c1b-f67d-4620-834d-b738d5297cec)
+
+### PUT
+![image](https://github.com/vellarLa/ESA_LAB_3/assets/83453185/667e794c-1860-447b-9909-c6cb8f05bcda)
+
+
+До
+
+![image](https://github.com/vellarLa/ESA_LAB_3/assets/83453185/1fff9bf0-6d35-4381-b9da-8317b5f32308)
+
+После
+
+![image](https://github.com/vellarLa/ESA_LAB_3/assets/83453185/3090f839-fc76-4e6b-88a9-f622df4cd3e2)
